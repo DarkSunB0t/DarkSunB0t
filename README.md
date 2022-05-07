@@ -7,7 +7,7 @@
 - 💬 Ask me about something?
 - 📫 How to reach me: ...
 - 😄 Pronouns: b0t. dsb
-- ⚡ Fun fact: mint
+- ⚡ Fun fact: i use arch btw
 
 <!--
 **DarkSunB0t/DarkSunB0t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
