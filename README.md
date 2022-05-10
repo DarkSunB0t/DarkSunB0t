@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently working on youtube, web-projects
 - 🌱 I’m currently learning js
-- 👯 I’m looking to collaborate on youtube
-- 🤔 I’m looking for help with c++, openGL, c#
+- 👯 I’m looking to collaborate on work with c++-DirectX/OpenGL/Vulkan/Youtube
+- 🤔 I’m looking for help with c++, openGL, c#, directx
 - 💬 Ask me about something?
 - 📫 How to reach me: ...
-- 😄 Pronouns: b0t. dsb
+- 😄 Pronouns: dsb, b0t. 
 - ⚡ Fun fact: i use arch btw
 
 <!--
