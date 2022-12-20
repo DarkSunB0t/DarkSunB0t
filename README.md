@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on youtube, web-projects
 - 🌱 I’m currently learning js
-- 👯 I’m looking to collaborate on work with c++-DirectX/OpenGL/Vulkan/Youtube
-- 🤔 I’m looking for help with c++, openGL, c#, directx
+- 👯 I’m looking to collaborate on work with C++-DirectX/OpenGL/Vulkan/Youtube
+- 🤔 I’m looking for help with C++, OpenGL, C#, DirectX
 - 💬 Ask me about something?
 - 📫 How to reach me: ...
 - 😄 Pronouns: dsb, b0t. 
