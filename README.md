@@ -1,6 +1,5 @@
 ### Hi there 👋
-## Total times this page viewed ![Visitor Count](https://profile-counter.glitch.me/DarkSunB0t/count.svg)
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 
 
 - 🔭 I’m currently working on youtube, web-projects
@@ -11,6 +10,9 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: dsb, b0t. 
 - ⚡ Fun fact: i use arch btw
+
+## Total times this page viewed ![Visitor Count](https://profile-counter.glitch.me/DarkSunB0t/count.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <!--
 **DarkSunB0t/DarkSunB0t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
