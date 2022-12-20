@@ -1,4 +1,7 @@
 ### Hi there 👋
+Total times this page viewed ![Visitor Count](https://profile-counter.glitch.me/DarkSunB0t/count.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 
 - 🔭 I’m currently working on youtube, web-projects
 - 🌱 I’m currently learning js
